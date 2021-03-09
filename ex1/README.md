@@ -4,6 +4,7 @@ var object = {
   id: 1,
   title: "this is a note",
   content: "This is the amazing content of the note!"
+  
 }
 
 Take the object, add one key-value pair to it and transform it in a JSON.
